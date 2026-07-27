@@ -1,0 +1,14 @@
+{
+	"log": {
+		"loglevel": "warning"
+	},
+	"address": [
+		{
+			"port": 2090,
+			"listen": "0.0.0.0"
+		}
+	],
+	"locations": [
+		{}
+	]
+}
